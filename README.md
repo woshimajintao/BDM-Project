@@ -84,10 +84,6 @@ We use PySpark MLlib for predictive analysis. The model pipeline includes:
 3. **Model Evaluation**: Evaluating model performance using metrics such as MSE, MAE, and R-squared.
 4. **Model Deployment**: Saving the trained model for future use.
 
-## Visualization
-
-The project uses Tableau for data visualization. The visualization results can be accessed via this [link](https://drive.google.com/file/d/1ohtEiMjSEIx-_ANqZ8PHes7WT2tO82-E/view).
-
 ## References
 
 - BDM-MIRI/BDMA, \textit{Big Data Management}, Available online at: \url{https://raco.fib.upc.edu/home/assignatura?espai=270678}, accessed June 2024.
