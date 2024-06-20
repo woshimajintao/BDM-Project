@@ -1,41 +1,42 @@
-- - # Bnbinsight - Big Data Management Project
+# BnBInsight - Big Data Management Project
 
-    ## Visualization
+## Visualization
 
-    The project uses Tableau for data visualization. The visualization results can be accessed via this [link](https://drive.google.com/file/d/1ohtEiMjSEIx-_ANqZ8PHes7WT2tO82-E/view).
+The project uses Tableau for data visualization. The visualization results can be accessed via this [link](https://drive.google.com/file/d/1ohtEiMjSEIx-_ANqZ8PHes7WT2tO82-E/view).
 
-    ## Run Data
+## Run Data
 
-    You can access the run data for this project via this [link](https://drive.google.com/drive/folders/1hXPdQAUSWJzrZrV9QvdIpEOFgyIjqZEN?usp=sharing).
+You can access the run data for this project via this [link](https://drive.google.com/drive/folders/1hXPdQAUSWJzrZrV9QvdIpEOFgyIjqZEN?usp=sharing).
 
-    ## Table of Contents
+## Table of Contents
 
-    1. [Introduction](#introduction)
-    2. [Project Structure](#project-structure)
-    3. [Setup and Installation](#setup-and-installation)
-    4. [Data Sources](#data-sources)
-    5. [Data Processing Pipeline](#data-processing-pipeline)
-    6. [Machine Learning Models](#machine-learning-models)
-    7. [Visualization](#visualization)
-    8. [References](#references)
+1. [Introduction](#introduction)
+2. [Project Structure](#project-structure)
+3. [Setup and Installation](#setup-and-installation)
+4. [Data Sources](#data-sources)
+5. [Data Processing Pipeline](#data-processing-pipeline)
+6. [Machine Learning Models](#machine-learning-models)
+7. [Visualization](#visualization)
+8. [References](#references)
 
-    ## Introduction
+## Introduction
 
-    BNBinsight is a project focused on intelligent pricing decisions for the hospitality industry in the Catalonia region. By analyzing and processing data from multiple sources, BNB Insight aims to help hotel owners optimize their pricing strategies, attract more bookings, and increase their revenue. The project uses advanced data processing and machine learning techniques to provide actionable insights and recommendations.
+BNBinsight is a project focused on intelligent pricing decisions for the hospitality industry in the Catalonia region. By analyzing and processing data from multiple sources, BNB Insight aims to help hotel owners optimize their pricing strategies, attract more bookings, and increase their revenue. The project uses advanced data processing and machine learning techniques to provide actionable insights and recommendations.
 
-    ## Project Structure
+## Project Structure
 
-    The project structure is as follows:
+The project structure is as follows:
 
-    ```plaintext
-    BDM-Project/
-    ├── Project 1/
-    ├── Project 2/
-    │   ├── BDM_P2_Exploitation.ipynb
-    │   ├── BDM_P2_Formatted_Exploitation.ipynb
-    │   ├── BDM_P2_Formatted.ipynb
-    │   └── graphs/
-    ├── README.md
+```plaintext
+BDM-Project/
+├── Project 1/
+├── Project 2/
+│   ├── BDM_P2_Exploitation.ipynb
+│   ├── BDM_P2_Formatted_Exploitation.ipynb
+│   ├── BDM_P2_Formatted.ipynb
+│   └── graphs/
+├── README.md
+```
 
 ## Setup and Installation
 
